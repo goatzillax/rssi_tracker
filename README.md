@@ -102,7 +102,7 @@ Allow gnd control from TX.
 
 ## JSON
 
-Config items
+### Main program config
 
 * P-value
 * CH1 offset/scale
@@ -111,6 +111,12 @@ Config items
 * Difference threshold
 * Min/max servo travel
 * Reverse/channel mapping?
+
+### WiFi config
+
+* SSID
+* PSK
+* Channel
 
 ## OneButton comtrol
 
